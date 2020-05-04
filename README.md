@@ -1,5 +1,5 @@
 # Concurrency and Parallelism for beginners
-> PyCon 2020 Tutorial 👉
+> PyCon 2020 Tutorial 👉 [\[slides\]](https://docs.google.com/presentation/d/1VdBEtXK5A8nFjIfGCSBR8pc6g-zv0yBGuIPBfffOo_k/edit?usp=sharing)
 
 This is the code for my PyCon 2020 online tutorial about concurrency and parallelism using Python
 
