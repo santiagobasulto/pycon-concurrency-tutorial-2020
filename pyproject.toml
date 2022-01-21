@@ -13,7 +13,7 @@ psutil = "^5.7.0"
 python-parallel = "^0.9.0"
 
 [tool.poetry.dev-dependencies]
-ipython = "^7.13.0"
+ipython = "^7.16.3"
 
 [build-system]
 requires = ["poetry>=0.12"]
